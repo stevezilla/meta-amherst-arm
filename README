@@ -2,7 +2,7 @@ OpenEmbedded/Yocto BSP layer for HandEra's ARM based platforms
 ================================================================
 
 This layer provides support for HandEra's ARM based platforms for
-use with OpenEmbedded and/or Yocto Freescale's BSP layer..
+use with OpenEmbedded and/or Yocto Freescale's BSP layer.
 
 This layer depends on:
 

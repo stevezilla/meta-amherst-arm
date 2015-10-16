@@ -9,8 +9,8 @@ LICENSE = "GPLv2+"
 LIC_FILES_CHKSUM = "file://COPYING;md5=1707d6db1d42237583f50183a5651ecb"
 
 SRCBRANCH = "master"
-SRC_URI = "git://github.com/stevezilla/amherst-uboot-dev.git;protocol=http;branch=${SRCBRANCH}"
-SRCREV = "02f30e83c6806ffe019885e9f0c6b6ca79a01be2"
+SRC_URI = "git://github.com/stevezilla/amherst-uboot-2014.10.git;protocol=http;branch=${SRCBRANCH}"
+SRCREV = "9cd404a948ca117d477c72437fc1e58f11c064dd"
 #SRC_URI[md5sum] = "1cd90ed8aad407ca8a4cf083fd8142bc" 
 
 S = "${WORKDIR}/git"
