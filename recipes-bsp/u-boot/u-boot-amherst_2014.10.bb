@@ -10,7 +10,7 @@ LIC_FILES_CHKSUM = "file://COPYING;md5=1707d6db1d42237583f50183a5651ecb"
 
 SRCBRANCH = "master"
 SRC_URI = "git://github.com/stevezilla/amherst-uboot-2014.10.git;protocol=http;branch=${SRCBRANCH}"
-SRCREV = "9cd404a948ca117d477c72437fc1e58f11c064dd"
+SRCREV = "0c61ba5c7eff42612709939e16ec15c68adbe35d"
 #SRC_URI[md5sum] = "1cd90ed8aad407ca8a4cf083fd8142bc" 
 
 S = "${WORKDIR}/git"
